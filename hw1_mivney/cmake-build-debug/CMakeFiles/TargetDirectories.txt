@@ -1,3 +1,0 @@
-C:/Users/evrih/OneDrive/Desktop/hw1_mivney/cmake-build-debug/CMakeFiles/hw1_mivney.dir
-C:/Users/evrih/OneDrive/Desktop/hw1_mivney/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/evrih/OneDrive/Desktop/hw1_mivney/cmake-build-debug/CMakeFiles/rebuild_cache.dir
